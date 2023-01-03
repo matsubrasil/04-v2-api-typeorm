@@ -6,4 +6,5 @@ Fiz uma limpeza neste boilerplate, coloquei um docker para o POSTGRES.
 ## Fullcycle
 
 Agilidade brutal no backend com Nest.js
+
 https://www.youtube.com/watch?v=qE0jRojtx08&list=WL&index=4&t=3309s
